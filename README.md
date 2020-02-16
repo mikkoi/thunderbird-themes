@@ -23,4 +23,5 @@ No idea where to read these times and how to pinpoint user's current location.
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Themes
 https://addons.mozilla.org/en-US/developers/addon/submit/wizard-listed
+https://github.com/mdn/webextensions-examples/tree/master/dynamic-theme
 
