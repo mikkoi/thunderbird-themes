@@ -18,4 +18,9 @@ https://www.flickr.com/photos/carrenho/2443850489/in/photolist-4HXnBg-5Pg5tX-538
 Dynamic solarized theme which combines light and dark and switches according to real sunrise / sunset times.
 No idea where to read these times and how to pinpoint user's current location.
 
+## Resources
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Themes
+https://addons.mozilla.org/en-US/developers/addon/submit/wizard-listed
 
