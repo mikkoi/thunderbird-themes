@@ -1,0 +1,23 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "{6cdfd54b-70c6-4afb-b56a-b0ea18935309}",
+      "strict_min_version": "60.0"
+    }
+  },
+  "author": "Mikko Koivunalho",
+  "description": "Solarized Light terminal theme.",
+  "homepage_url": "https://github.com/mikkoi/thunderbird-themes/tree/master/dynamic-theme/solarized-light",
+  "manifest_version": 2,
+  "name": "Solarized Light",
+  "theme": {
+    "colors": {
+      "frame": "#fdf6e3",
+      "tab_background_text": "#586e75"
+    },
+    "images": {
+      "theme_frame": "images/sun.jpg"
+    },
+  },
+  "version": "1.0"
+}
