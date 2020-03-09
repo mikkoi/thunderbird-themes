@@ -14,9 +14,6 @@
     "colors": {
       "frame": "#fdf6e3",
       "tab_background_text": "#586e75"
-    },
-    "images": {
-      "theme_frame": "images/sun.jpg"
     }
   },
   "version": "1.0"
